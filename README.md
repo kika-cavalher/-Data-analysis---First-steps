@@ -2,7 +2,7 @@
  Raised all the necessary steps for a simple data processing.
  
  
-1st browse the document: x. It contains the basic commands for:['data_processing-tidying']
+1st browse the document:['data_processing-tidying']. It contains the basic commands for:
 - View the data
 - Edit the dataframe
 - Edit the data
